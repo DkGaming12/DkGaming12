@@ -7,7 +7,7 @@
 ## 🏛️ Organisasi
 - 🇮🇩 Staff **PERMIKOMNAS Jawa Tengah**
 - Anggota Aktif **PMII**
-- Anggota **HMPS Informatika UIN Gusdur**
+- Pengurus **HMPS Informatika UIN Gusdur**
 
 ## 🚀 Project Pilihan
 - **[Kris Ai](https://www.kris-ai.web.id/)** — Chat AI multi-model, generator novel, gambar & desain AI
